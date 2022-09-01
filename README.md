@@ -1,5 +1,5 @@
 # Canada_Great_Lake_Coverage
-A Forecast and Anomaly Detection case of Ice Coverage in the four great lakes of Canada. The data is obtained from the Data World website and analyzed using Power BI. 
+A Forecast and Anomaly Detection case of Ice Coverage in the four great lakes of Canada between 1970 and 2020. The data is obtained from the Data World website and analyzed using Power BI. 
 
 
 Queries to be answered: - 
